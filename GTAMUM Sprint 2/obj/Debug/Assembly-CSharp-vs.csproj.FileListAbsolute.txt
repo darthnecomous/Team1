@@ -1,0 +1,26 @@
+E:\GTAMUM\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+E:\GTAMUM\Temp\bin\Debug\Assembly-CSharp.dll
+E:\GTAMUM\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\GTAMUM\Temp\bin\Debug\Assembly-UnityScript-firstpass.dll
+E:\GTAMUM\Temp\bin\Debug\UnityEditor.dll
+E:\GTAMUM\Temp\bin\Debug\UnityEngine.dll
+E:\GTAMUM\Temp\bin\Debug\Mono.Cecil.dll
+E:\GTAMUM\Temp\bin\Debug\nunit.framework.dll
+E:\GTAMUM\Temp\bin\Debug\Unity.DataContract.dll
+E:\GTAMUM\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\GTAMUM\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+E:\GTAMUM\obj\Debug\Assembly-CSharp.dll
+E:\GTAMUM\obj\Debug\Assembly-CSharp.pdb
+I:\GTAMUM Email System\Temp\bin\Debug\Assembly-CSharp.dll
+I:\GTAMUM Email System\Temp\bin\Debug\Assembly-CSharp.pdb
+I:\GTAMUM Email System\Temp\bin\Debug\Assembly-UnityScript-firstpass.dll
+I:\GTAMUM Email System\Temp\bin\Debug\UnityEditor.dll
+I:\GTAMUM Email System\Temp\bin\Debug\UnityEngine.dll
+I:\GTAMUM Email System\Temp\bin\Debug\Mono.Cecil.dll
+I:\GTAMUM Email System\Temp\bin\Debug\nunit.framework.dll
+I:\GTAMUM Email System\Temp\bin\Debug\Unity.DataContract.dll
+I:\GTAMUM Email System\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+I:\GTAMUM Email System\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+I:\GTAMUM Email System\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+I:\GTAMUM Email System\obj\Debug\Assembly-CSharp.dll
+I:\GTAMUM Email System\obj\Debug\Assembly-CSharp.pdb
